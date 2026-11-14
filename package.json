@@ -1,0 +1,1 @@
+{"engines":{"node":">=20"},"name":"agentgames-gatekeeper","private":true,"scripts":{"start":"node index.mjs"},"type":"module","version":"0.1.0"}
